@@ -1,4 +1,4 @@
-<h1 align="center">✨ Oi, eu sou a [Seu Nome]!</h1>
+<h1 align="center">✨ Oi, eu sou a Maria Fernanda!</h1>
 
 <p align="center">
   💻 Desenvolvedora Front-End <br>
@@ -26,7 +26,7 @@
 
 ### 🌸 Sobre mim
 
-- 😄 Pronomes: ela/dela  
+- 😄 O que gosto de fazer no meu tempo livre: Praticar esportes.
 - 💖 Adoro criar experiências visuais agradáveis  
 - 🎯 Objetivo: me tornar uma dev Front-End referência!
 
@@ -35,10 +35,10 @@
 ### 📫 Onde me encontrar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seuusuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/maria-fernanda-corr%C3%AAa-69a68020b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="correamariafernanda6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
